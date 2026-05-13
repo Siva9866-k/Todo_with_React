@@ -87,14 +87,13 @@ npm start
 
 ---
 
-## Screenshot
+## Screenshots
 
-Add your project screenshot here.
+### Home Page
+![Home Screenshot](src/assets/s1.png)
 
-```bash
-public/screenshot.png
-```
-
+### Edit or delete todo
+![Feature Screenshot](src/assets/s2.png)
 ---
 
 ## Future Improvements
@@ -109,7 +108,7 @@ public/screenshot.png
 
 ## Author
 
-Created by Your Name
+Created by K siva prasad
 
 ---
 
