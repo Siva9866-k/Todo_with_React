@@ -1,16 +1,118 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and beginner-friendly Todo App built using React.  
+This project allows users to add, edit, update, and delete todos.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Add new todos
+- Edit existing todos
+- Update todos
+- Delete todos
+- Simple and attractive UI
+- Beginner-friendly React project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React JS
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## Project Structure
+
+```bash
+src/
+│
+├── App.js
+├── App.css
+└── index.js
+```
+
+---
+
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone <your-repository-link>
+```
+
+### 2. Move into the project folder
+
+```bash
+cd todo-app
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm start
+```
+
+---
+
+## How It Works
+
+### Add Todo
+
+- Enter text in the input field
+- Click the **Add** button
+
+### Edit Todo
+
+- Click the **Edit** button
+- The selected todo appears in the input field
+
+### Update Todo
+
+- Modify the text
+- Click the **Update** button
+
+### Delete Todo
+
+- Click the **Delete** button to remove a todo
+
+---
+
+## Screenshot
+
+Add your project screenshot here.
+
+```bash
+public/screenshot.png
+```
+
+---
+
+## Future Improvements
+
+- Add local storage
+- Add completed task feature
+- Add dark mode
+- Add animations
+- Add search functionality
+
+---
+
+## Author
+
+Created by Your Name
+
+---
+
+## License
+
+This project is free to use for learning purposes.
