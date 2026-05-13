@@ -41,7 +41,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/Siva9866-k/Todo_with_React.git>
 ```
 
 ### 2. Move into the project folder
